@@ -1,0 +1,974 @@
+[
+ {
+  "archivo": "ine_frente_000_easy.jpg",
+  "severidad": "easy",
+  "es_ine": true,
+  "lado": "front",
+  "datos": {
+   "apellido_paterno": "TORRES",
+   "apellido_materno": "JIMENEZ",
+   "nombres": "ANA LAURA",
+   "sexo": "M",
+   "fecha_nacimiento": "1956-07-01",
+   "curp": "TOJA560701MCMRMN58",
+   "clave_elector": "TRRSJM56070104M931",
+   "calle": "AV INSURGENTES SUR",
+   "numero_exterior": "1759",
+   "colonia": "COL DEL VALLE",
+   "codigo_postal": "57838",
+   "municipio": "XALAPA",
+   "estado": "VER.",
+   "estado_clave": "30",
+   "municipio_clave": "054",
+   "seccion": "0573",
+   "localidad": "0016",
+   "emision": "2020",
+   "vigencia": "2030",
+   "anio_registro": "2020",
+   "cic": "691682483",
+   "ocr_id": "2041205381670"
+  }
+ },
+ {
+  "archivo": "ine_reverso_000_easy.jpg",
+  "severidad": "easy",
+  "es_ine": true,
+  "lado": "back",
+  "datos": {
+   "apellido_paterno": "TORRES",
+   "apellido_materno": "JIMENEZ",
+   "nombres": "ANA LAURA",
+   "sexo": "M",
+   "fecha_nacimiento": "1956-07-01",
+   "curp": "TOJA560701MCMRMN58",
+   "clave_elector": "TRRSJM56070104M931",
+   "calle": "AV INSURGENTES SUR",
+   "numero_exterior": "1759",
+   "colonia": "COL DEL VALLE",
+   "codigo_postal": "57838",
+   "municipio": "XALAPA",
+   "estado": "VER.",
+   "estado_clave": "30",
+   "municipio_clave": "054",
+   "seccion": "0573",
+   "localidad": "0016",
+   "emision": "2020",
+   "vigencia": "2030",
+   "anio_registro": "2020",
+   "cic": "691682483",
+   "ocr_id": "2041205381670"
+  },
+  "mrz": [
+   "IDMEX6916824833<<2041205381670",
+   "5607013M3012316MEX<<<<<<<<<<<5",
+   "TORRES<JIMENEZ<<ANA<LAURA<<<<<"
+  ],
+  "codigo": {
+   "formato": "PDF417",
+   "texto": "INE|691682483|2041205381670|TOJA560701MCMRMN58|2030"
+  }
+ },
+ {
+  "archivo": "ine_frente_001_medium.jpg",
+  "severidad": "medium",
+  "es_ine": true,
+  "lado": "front",
+  "datos": {
+   "apellido_paterno": "DIAZ",
+   "apellido_materno": "GUTIERREZ",
+   "nombres": "ROSA ELENA",
+   "sexo": "M",
+   "fecha_nacimiento": "2002-08-12",
+   "curp": "DIGR020812MMSZTSR5",
+   "clave_elector": "DZGTRR02081227M854",
+   "calle": "BLVD LAS TORRES",
+   "numero_exterior": "499",
+   "colonia": "COL NAPOLES",
+   "codigo_postal": "61052",
+   "municipio": "QUERETARO",
+   "estado": "QRO.",
+   "estado_clave": "22",
+   "municipio_clave": "085",
+   "seccion": "4779",
+   "localidad": "0053",
+   "emision": "2016",
+   "vigencia": "2026",
+   "anio_registro": "2012",
+   "cic": "551646166",
+   "ocr_id": "9825634532172"
+  }
+ },
+ {
+  "archivo": "ine_reverso_001_medium.jpg",
+  "severidad": "medium",
+  "es_ine": true,
+  "lado": "back",
+  "datos": {
+   "apellido_paterno": "DIAZ",
+   "apellido_materno": "GUTIERREZ",
+   "nombres": "ROSA ELENA",
+   "sexo": "M",
+   "fecha_nacimiento": "2002-08-12",
+   "curp": "DIGR020812MMSZTSR5",
+   "clave_elector": "DZGTRR02081227M854",
+   "calle": "BLVD LAS TORRES",
+   "numero_exterior": "499",
+   "colonia": "COL NAPOLES",
+   "codigo_postal": "61052",
+   "municipio": "QUERETARO",
+   "estado": "QRO.",
+   "estado_clave": "22",
+   "municipio_clave": "085",
+   "seccion": "4779",
+   "localidad": "0053",
+   "emision": "2016",
+   "vigencia": "2026",
+   "anio_registro": "2012",
+   "cic": "551646166",
+   "ocr_id": "9825634532172"
+  },
+  "mrz": [
+   "IDMEX5516461662<<9825634532172",
+   "0208127M2612317MEX<<<<<<<<<<<7",
+   "DIAZ<GUTIERREZ<<ROSA<ELENA<<<<"
+  ],
+  "codigo": {
+   "formato": "PDF417",
+   "texto": "INE|551646166|9825634532172|DIGR020812MMSZTSR5|2026"
+  }
+ },
+ {
+  "archivo": "ine_frente_002_hard.jpg",
+  "severidad": "hard",
+  "es_ine": true,
+  "lado": "front",
+  "datos": {
+   "apellido_paterno": "MARTINEZ",
+   "apellido_materno": "RAMIREZ",
+   "nombres": "SERGIO",
+   "sexo": "H",
+   "fecha_nacimiento": "1959-05-31",
+   "curp": "MARS590531HTSRMR82",
+   "clave_elector": "MRTNZR59053104H642",
+   "calle": "C ALLENDE",
+   "numero_exterior": "4354",
+   "colonia": "COL SAN MATEO",
+   "codigo_postal": "65132",
+   "municipio": "MERIDA",
+   "estado": "YUC.",
+   "estado_clave": "31",
+   "municipio_clave": "034",
+   "seccion": "0028",
+   "localidad": "0030",
+   "emision": "2014",
+   "vigencia": "2024",
+   "anio_registro": "2008",
+   "cic": "175281683",
+   "ocr_id": "2617206369020"
+  }
+ },
+ {
+  "archivo": "ine_reverso_002_hard.jpg",
+  "severidad": "hard",
+  "es_ine": true,
+  "lado": "back",
+  "datos": {
+   "apellido_paterno": "MARTINEZ",
+   "apellido_materno": "RAMIREZ",
+   "nombres": "SERGIO",
+   "sexo": "H",
+   "fecha_nacimiento": "1959-05-31",
+   "curp": "MARS590531HTSRMR82",
+   "clave_elector": "MRTNZR59053104H642",
+   "calle": "C ALLENDE",
+   "numero_exterior": "4354",
+   "colonia": "COL SAN MATEO",
+   "codigo_postal": "65132",
+   "municipio": "MERIDA",
+   "estado": "YUC.",
+   "estado_clave": "31",
+   "municipio_clave": "034",
+   "seccion": "0028",
+   "localidad": "0030",
+   "emision": "2014",
+   "vigencia": "2024",
+   "anio_registro": "2008",
+   "cic": "175281683",
+   "ocr_id": "2617206369020"
+  },
+  "mrz": [
+   "IDMEX1752816831<<2617206369020",
+   "5905317H2412311MEX<<<<<<<<<<<8",
+   "MARTINEZ<RAMIREZ<<SERGIO<<<<<<"
+  ],
+  "codigo": {
+   "formato": "QRCode",
+   "texto": "INE|175281683|2617206369020|MARS590531HTSRMR82|2024"
+  }
+ },
+ {
+  "archivo": "ine_frente_003_easy.jpg",
+  "severidad": "easy",
+  "es_ine": true,
+  "lado": "front",
+  "datos": {
+   "apellido_paterno": "DIAZ",
+   "apellido_materno": "VARGAS",
+   "nombres": "ROBERTO",
+   "sexo": "H",
+   "fecha_nacimiento": "1977-12-19",
+   "curp": "DIVR771219HMCZRB73",
+   "clave_elector": "DZVRGS77121915H271",
+   "calle": "C REFORMA",
+   "numero_exterior": "2417",
+   "colonia": "COL AMERICAS",
+   "codigo_postal": "65980",
+   "municipio": "MONTERREY",
+   "estado": "N.L.",
+   "estado_clave": "19",
+   "municipio_clave": "079",
+   "seccion": "1535",
+   "localidad": "0058",
+   "emision": "2023",
+   "vigencia": "2033",
+   "anio_registro": "2022",
+   "cic": "620821409",
+   "ocr_id": "1994994862447"
+  }
+ },
+ {
+  "archivo": "ine_reverso_003_easy.jpg",
+  "severidad": "easy",
+  "es_ine": true,
+  "lado": "back",
+  "datos": {
+   "apellido_paterno": "DIAZ",
+   "apellido_materno": "VARGAS",
+   "nombres": "ROBERTO",
+   "sexo": "H",
+   "fecha_nacimiento": "1977-12-19",
+   "curp": "DIVR771219HMCZRB73",
+   "clave_elector": "DZVRGS77121915H271",
+   "calle": "C REFORMA",
+   "numero_exterior": "2417",
+   "colonia": "COL AMERICAS",
+   "codigo_postal": "65980",
+   "municipio": "MONTERREY",
+   "estado": "N.L.",
+   "estado_clave": "19",
+   "municipio_clave": "079",
+   "seccion": "1535",
+   "localidad": "0058",
+   "emision": "2023",
+   "vigencia": "2033",
+   "anio_registro": "2022",
+   "cic": "620821409",
+   "ocr_id": "1994994862447"
+  },
+  "mrz": [
+   "IDMEX6208214098<<1994994862447",
+   "7712197H3312315MEX<<<<<<<<<<<2",
+   "DIAZ<VARGAS<<ROBERTO<<<<<<<<<<"
+  ],
+  "codigo": {
+   "formato": "PDF417",
+   "texto": "INE|620821409|1994994862447|DIVR771219HMCZRB73|2033"
+  }
+ },
+ {
+  "archivo": "ine_frente_004_medium.jpg",
+  "severidad": "medium",
+  "es_ine": true,
+  "lado": "front",
+  "datos": {
+   "apellido_paterno": "RAMOS",
+   "apellido_materno": "LOPEZ",
+   "nombres": "LUCIA",
+   "sexo": "M",
+   "fecha_nacimiento": "1957-09-28",
+   "curp": "RALL570928MMCMPC93",
+   "clave_elector": "RMSLPZ57092826M629",
+   "calle": "C MORELOS",
+   "numero_exterior": "1607",
+   "colonia": "COL ROMA NORTE",
+   "codigo_postal": "75111",
+   "municipio": "GUADALAJARA",
+   "estado": "JAL.",
+   "estado_clave": "14",
+   "municipio_clave": "028",
+   "seccion": "0342",
+   "localidad": "0026",
+   "emision": "2023",
+   "vigencia": "2033",
+   "anio_registro": "2019",
+   "cic": "268017943",
+   "ocr_id": "7319544340387"
+  }
+ },
+ {
+  "archivo": "ine_reverso_004_medium.jpg",
+  "severidad": "medium",
+  "es_ine": true,
+  "lado": "back",
+  "datos": {
+   "apellido_paterno": "RAMOS",
+   "apellido_materno": "LOPEZ",
+   "nombres": "LUCIA",
+   "sexo": "M",
+   "fecha_nacimiento": "1957-09-28",
+   "curp": "RALL570928MMCMPC93",
+   "clave_elector": "RMSLPZ57092826M629",
+   "calle": "C MORELOS",
+   "numero_exterior": "1607",
+   "colonia": "COL ROMA NORTE",
+   "codigo_postal": "75111",
+   "municipio": "GUADALAJARA",
+   "estado": "JAL.",
+   "estado_clave": "14",
+   "municipio_clave": "028",
+   "seccion": "0342",
+   "localidad": "0026",
+   "emision": "2023",
+   "vigencia": "2033",
+   "anio_registro": "2019",
+   "cic": "268017943",
+   "ocr_id": "7319544340387"
+  },
+  "mrz": [
+   "IDMEX2680179438<<7319544340387",
+   "5709283M3312315MEX<<<<<<<<<<<6",
+   "RAMOS<LOPEZ<<LUCIA<<<<<<<<<<<<"
+  ],
+  "codigo": {
+   "formato": "PDF417",
+   "texto": "INE|268017943|7319544340387|RALL570928MMCMPC93|2033"
+  }
+ },
+ {
+  "archivo": "ine_frente_005_hard.jpg",
+  "severidad": "hard",
+  "es_ine": true,
+  "lado": "front",
+  "datos": {
+   "apellido_paterno": "CONTRERAS",
+   "apellido_materno": "GONZALEZ",
+   "nombres": "VERONICA",
+   "sexo": "M",
+   "fecha_nacimiento": "1962-12-22",
+   "curp": "COGV621222MBCNNR13",
+   "clave_elector": "CNTRRS62122207M636",
+   "calle": "C 5 DE MAYO",
+   "numero_exterior": "2826",
+   "colonia": "COL CENTRO",
+   "codigo_postal": "05046",
+   "municipio": "TOLUCA",
+   "estado": "MEX.",
+   "estado_clave": "15",
+   "municipio_clave": "006",
+   "seccion": "1134",
+   "localidad": "0045",
+   "emision": "2016",
+   "vigencia": "2026",
+   "anio_registro": "2011",
+   "cic": "780621462",
+   "ocr_id": "2155546730663"
+  }
+ },
+ {
+  "archivo": "ine_reverso_005_hard.jpg",
+  "severidad": "hard",
+  "es_ine": true,
+  "lado": "back",
+  "datos": {
+   "apellido_paterno": "CONTRERAS",
+   "apellido_materno": "GONZALEZ",
+   "nombres": "VERONICA",
+   "sexo": "M",
+   "fecha_nacimiento": "1962-12-22",
+   "curp": "COGV621222MBCNNR13",
+   "clave_elector": "CNTRRS62122207M636",
+   "calle": "C 5 DE MAYO",
+   "numero_exterior": "2826",
+   "colonia": "COL CENTRO",
+   "codigo_postal": "05046",
+   "municipio": "TOLUCA",
+   "estado": "MEX.",
+   "estado_clave": "15",
+   "municipio_clave": "006",
+   "seccion": "1134",
+   "localidad": "0045",
+   "emision": "2016",
+   "vigencia": "2026",
+   "anio_registro": "2011",
+   "cic": "780621462",
+   "ocr_id": "2155546730663"
+  },
+  "mrz": [
+   "IDMEX7806214620<<2155546730663",
+   "6212221M2612317MEX<<<<<<<<<<<9",
+   "CONTRERAS<GONZALEZ<<VERONICA<<"
+  ],
+  "codigo": {
+   "formato": "QRCode",
+   "texto": "INE|780621462|2155546730663|COGV621222MBCNNR13|2026"
+  }
+ },
+ {
+  "archivo": "ine_frente_006_easy.jpg",
+  "severidad": "easy",
+  "es_ine": true,
+  "lado": "front",
+  "datos": {
+   "apellido_paterno": "ROMERO",
+   "apellido_materno": "RODRIGUEZ",
+   "nombres": "PAOLA",
+   "sexo": "M",
+   "fecha_nacimiento": "1963-09-15",
+   "curp": "RORP630915MSPMDL06",
+   "clave_elector": "RMRRDR63091506M847",
+   "calle": "C 5 DE MAYO",
+   "numero_exterior": "2660",
+   "colonia": "COL LOMAS VERDES",
+   "codigo_postal": "46239",
+   "municipio": "PUEBLA",
+   "estado": "PUE.",
+   "estado_clave": "21",
+   "municipio_clave": "082",
+   "seccion": "4772",
+   "localidad": "0001",
+   "emision": "2020",
+   "vigencia": "2030",
+   "anio_registro": "2015",
+   "cic": "112325551",
+   "ocr_id": "5399304903839"
+  }
+ },
+ {
+  "archivo": "ine_reverso_006_easy.jpg",
+  "severidad": "easy",
+  "es_ine": true,
+  "lado": "back",
+  "datos": {
+   "apellido_paterno": "ROMERO",
+   "apellido_materno": "RODRIGUEZ",
+   "nombres": "PAOLA",
+   "sexo": "M",
+   "fecha_nacimiento": "1963-09-15",
+   "curp": "RORP630915MSPMDL06",
+   "clave_elector": "RMRRDR63091506M847",
+   "calle": "C 5 DE MAYO",
+   "numero_exterior": "2660",
+   "colonia": "COL LOMAS VERDES",
+   "codigo_postal": "46239",
+   "municipio": "PUEBLA",
+   "estado": "PUE.",
+   "estado_clave": "21",
+   "municipio_clave": "082",
+   "seccion": "4772",
+   "localidad": "0001",
+   "emision": "2020",
+   "vigencia": "2030",
+   "anio_registro": "2015",
+   "cic": "112325551",
+   "ocr_id": "5399304903839"
+  },
+  "mrz": [
+   "IDMEX1123255515<<5399304903839",
+   "6309152M3012316MEX<<<<<<<<<<<9",
+   "ROMERO<RODRIGUEZ<<PAOLA<<<<<<<"
+  ],
+  "codigo": {
+   "formato": "PDF417",
+   "texto": "INE|112325551|5399304903839|RORP630915MSPMDL06|2030"
+  }
+ },
+ {
+  "archivo": "ine_frente_007_medium.jpg",
+  "severidad": "medium",
+  "es_ine": true,
+  "lado": "front",
+  "datos": {
+   "apellido_paterno": "JIMENEZ",
+   "apellido_materno": "MEDINA",
+   "nombres": "ROBERTO",
+   "sexo": "H",
+   "fecha_nacimiento": "1972-11-08",
+   "curp": "JIMR721108HSPMDB77",
+   "clave_elector": "JMNZMD72110806H549",
+   "calle": "C REFORMA",
+   "numero_exterior": "2910",
+   "colonia": "COL SAN MATEO",
+   "codigo_postal": "53191",
+   "municipio": "TOLUCA",
+   "estado": "MEX.",
+   "estado_clave": "15",
+   "municipio_clave": "075",
+   "seccion": "4269",
+   "localidad": "0058",
+   "emision": "2023",
+   "vigencia": "2033",
+   "anio_registro": "2021",
+   "cic": "994779137",
+   "ocr_id": "6645828392250"
+  }
+ },
+ {
+  "archivo": "ine_reverso_007_medium.jpg",
+  "severidad": "medium",
+  "es_ine": true,
+  "lado": "back",
+  "datos": {
+   "apellido_paterno": "JIMENEZ",
+   "apellido_materno": "MEDINA",
+   "nombres": "ROBERTO",
+   "sexo": "H",
+   "fecha_nacimiento": "1972-11-08",
+   "curp": "JIMR721108HSPMDB77",
+   "clave_elector": "JMNZMD72110806H549",
+   "calle": "C REFORMA",
+   "numero_exterior": "2910",
+   "colonia": "COL SAN MATEO",
+   "codigo_postal": "53191",
+   "municipio": "TOLUCA",
+   "estado": "MEX.",
+   "estado_clave": "15",
+   "municipio_clave": "075",
+   "seccion": "4269",
+   "localidad": "0058",
+   "emision": "2023",
+   "vigencia": "2033",
+   "anio_registro": "2021",
+   "cic": "994779137",
+   "ocr_id": "6645828392250"
+  },
+  "mrz": [
+   "IDMEX9947791376<<6645828392250",
+   "7211081H3312315MEX<<<<<<<<<<<2",
+   "JIMENEZ<MEDINA<<ROBERTO<<<<<<<"
+  ],
+  "codigo": {
+   "formato": "PDF417",
+   "texto": "INE|994779137|6645828392250|JIMR721108HSPMDB77|2033"
+  }
+ },
+ {
+  "archivo": "ine_frente_008_hard.jpg",
+  "severidad": "hard",
+  "es_ine": true,
+  "lado": "front",
+  "datos": {
+   "apellido_paterno": "HERRERA",
+   "apellido_materno": "PEREZ",
+   "nombres": "SERGIO",
+   "sexo": "H",
+   "fecha_nacimiento": "1958-06-05",
+   "curp": "HEPS580605HBSRRR49",
+   "clave_elector": "HRRRPR58060508H476",
+   "calle": "PRIV LOS PINOS",
+   "numero_exterior": "4800",
+   "colonia": "COL LAS AGUILAS",
+   "codigo_postal": "15423",
+   "municipio": "GUADALAJARA",
+   "estado": "JAL.",
+   "estado_clave": "14",
+   "municipio_clave": "016",
+   "seccion": "0996",
+   "localidad": "0026",
+   "emision": "2019",
+   "vigencia": "2029",
+   "anio_registro": "2018",
+   "cic": "681536088",
+   "ocr_id": "5001156366112"
+  }
+ },
+ {
+  "archivo": "ine_reverso_008_hard.jpg",
+  "severidad": "hard",
+  "es_ine": true,
+  "lado": "back",
+  "datos": {
+   "apellido_paterno": "HERRERA",
+   "apellido_materno": "PEREZ",
+   "nombres": "SERGIO",
+   "sexo": "H",
+   "fecha_nacimiento": "1958-06-05",
+   "curp": "HEPS580605HBSRRR49",
+   "clave_elector": "HRRRPR58060508H476",
+   "calle": "PRIV LOS PINOS",
+   "numero_exterior": "4800",
+   "colonia": "COL LAS AGUILAS",
+   "codigo_postal": "15423",
+   "municipio": "GUADALAJARA",
+   "estado": "JAL.",
+   "estado_clave": "14",
+   "municipio_clave": "016",
+   "seccion": "0996",
+   "localidad": "0026",
+   "emision": "2019",
+   "vigencia": "2029",
+   "anio_registro": "2018",
+   "cic": "681536088",
+   "ocr_id": "5001156366112"
+  },
+  "mrz": [
+   "IDMEX6815360889<<5001156366112",
+   "5806056H2912316MEX<<<<<<<<<<<3",
+   "HERRERA<PEREZ<<SERGIO<<<<<<<<<"
+  ],
+  "codigo": {
+   "formato": "QRCode",
+   "texto": "INE|681536088|5001156366112|HEPS580605HBSRRR49|2029"
+  }
+ },
+ {
+  "archivo": "ine_frente_009_easy.jpg",
+  "severidad": "easy",
+  "es_ine": true,
+  "lado": "front",
+  "datos": {
+   "apellido_paterno": "HERNANDEZ",
+   "apellido_materno": "GOMEZ",
+   "nombres": "ALEJANDRO",
+   "sexo": "H",
+   "fecha_nacimiento": "1994-08-31",
+   "curp": "HEGA940831HNLRML85",
+   "clave_elector": "HRNNDZ94083110H588",
+   "calle": "AV TOLUCA",
+   "numero_exterior": "3368",
+   "colonia": "COL DEL VALLE",
+   "codigo_postal": "20051",
+   "municipio": "XALAPA",
+   "estado": "VER.",
+   "estado_clave": "30",
+   "municipio_clave": "021",
+   "seccion": "4247",
+   "localidad": "0049",
+   "emision": "2016",
+   "vigencia": "2026",
+   "anio_registro": "2012",
+   "cic": "214510418",
+   "ocr_id": "2761061292104"
+  }
+ },
+ {
+  "archivo": "ine_reverso_009_easy.jpg",
+  "severidad": "easy",
+  "es_ine": true,
+  "lado": "back",
+  "datos": {
+   "apellido_paterno": "HERNANDEZ",
+   "apellido_materno": "GOMEZ",
+   "nombres": "ALEJANDRO",
+   "sexo": "H",
+   "fecha_nacimiento": "1994-08-31",
+   "curp": "HEGA940831HNLRML85",
+   "clave_elector": "HRNNDZ94083110H588",
+   "calle": "AV TOLUCA",
+   "numero_exterior": "3368",
+   "colonia": "COL DEL VALLE",
+   "codigo_postal": "20051",
+   "municipio": "XALAPA",
+   "estado": "VER.",
+   "estado_clave": "30",
+   "municipio_clave": "021",
+   "seccion": "4247",
+   "localidad": "0049",
+   "emision": "2016",
+   "vigencia": "2026",
+   "anio_registro": "2012",
+   "cic": "214510418",
+   "ocr_id": "2761061292104"
+  },
+  "mrz": [
+   "IDMEX2145104188<<2761061292104",
+   "9408311H2612317MEX<<<<<<<<<<<3",
+   "HERNANDEZ<GOMEZ<<ALEJANDRO<<<<"
+  ],
+  "codigo": {
+   "formato": "PDF417",
+   "texto": "INE|214510418|2761061292104|HEGA940831HNLRML85|2026"
+  }
+ },
+ {
+  "archivo": "ine_frente_010_medium.jpg",
+  "severidad": "medium",
+  "es_ine": true,
+  "lado": "front",
+  "datos": {
+   "apellido_paterno": "MENDOZA",
+   "apellido_materno": "SANCHEZ",
+   "nombres": "EDUARDO",
+   "sexo": "H",
+   "fecha_nacimiento": "1965-03-07",
+   "curp": "MESE650307HVZNND63",
+   "clave_elector": "MNDZSN65030714H117",
+   "calle": "AV INSURGENTES SUR",
+   "numero_exterior": "2371",
+   "colonia": "COL NAPOLES",
+   "codigo_postal": "64780",
+   "municipio": "GUADALAJARA",
+   "estado": "JAL.",
+   "estado_clave": "14",
+   "municipio_clave": "027",
+   "seccion": "0356",
+   "localidad": "0004",
+   "emision": "2022",
+   "vigencia": "2032",
+   "anio_registro": "2020",
+   "cic": "426314041",
+   "ocr_id": "2942171812112"
+  }
+ },
+ {
+  "archivo": "ine_reverso_010_medium.jpg",
+  "severidad": "medium",
+  "es_ine": true,
+  "lado": "back",
+  "datos": {
+   "apellido_paterno": "MENDOZA",
+   "apellido_materno": "SANCHEZ",
+   "nombres": "EDUARDO",
+   "sexo": "H",
+   "fecha_nacimiento": "1965-03-07",
+   "curp": "MESE650307HVZNND63",
+   "clave_elector": "MNDZSN65030714H117",
+   "calle": "AV INSURGENTES SUR",
+   "numero_exterior": "2371",
+   "colonia": "COL NAPOLES",
+   "codigo_postal": "64780",
+   "municipio": "GUADALAJARA",
+   "estado": "JAL.",
+   "estado_clave": "14",
+   "municipio_clave": "027",
+   "seccion": "0356",
+   "localidad": "0004",
+   "emision": "2022",
+   "vigencia": "2032",
+   "anio_registro": "2020",
+   "cic": "426314041",
+   "ocr_id": "2942171812112"
+  },
+  "mrz": [
+   "IDMEX4263140411<<2942171812112",
+   "6503075H3212312MEX<<<<<<<<<<<5",
+   "MENDOZA<SANCHEZ<<EDUARDO<<<<<<"
+  ],
+  "codigo": {
+   "formato": "PDF417",
+   "texto": "INE|426314041|2942171812112|MESE650307HVZNND63|2032"
+  }
+ },
+ {
+  "archivo": "ine_frente_011_hard.jpg",
+  "severidad": "hard",
+  "es_ine": true,
+  "lado": "front",
+  "datos": {
+   "apellido_paterno": "JIMENEZ",
+   "apellido_materno": "AGUILAR",
+   "nombres": "ALEJANDRO",
+   "sexo": "H",
+   "fecha_nacimiento": "1990-03-31",
+   "curp": "JIAA900331HMCMGL97",
+   "clave_elector": "JMNZGL90033105H369",
+   "calle": "AV JUAREZ",
+   "numero_exterior": "4328",
+   "colonia": "COL LAS AGUILAS",
+   "codigo_postal": "18160",
+   "municipio": "MERIDA",
+   "estado": "YUC.",
+   "estado_clave": "31",
+   "municipio_clave": "076",
+   "seccion": "0358",
+   "localidad": "0014",
+   "emision": "2018",
+   "vigencia": "2028",
+   "anio_registro": "2017",
+   "cic": "979587671",
+   "ocr_id": "6830279633850"
+  }
+ },
+ {
+  "archivo": "ine_reverso_011_hard.jpg",
+  "severidad": "hard",
+  "es_ine": true,
+  "lado": "back",
+  "datos": {
+   "apellido_paterno": "JIMENEZ",
+   "apellido_materno": "AGUILAR",
+   "nombres": "ALEJANDRO",
+   "sexo": "H",
+   "fecha_nacimiento": "1990-03-31",
+   "curp": "JIAA900331HMCMGL97",
+   "clave_elector": "JMNZGL90033105H369",
+   "calle": "AV JUAREZ",
+   "numero_exterior": "4328",
+   "colonia": "COL LAS AGUILAS",
+   "codigo_postal": "18160",
+   "municipio": "MERIDA",
+   "estado": "YUC.",
+   "estado_clave": "31",
+   "municipio_clave": "076",
+   "seccion": "0358",
+   "localidad": "0014",
+   "emision": "2018",
+   "vigencia": "2028",
+   "anio_registro": "2017",
+   "cic": "979587671",
+   "ocr_id": "6830279633850"
+  },
+  "mrz": [
+   "IDMEX9795876713<<6830279633850",
+   "9003314H2812313MEX<<<<<<<<<<<8",
+   "JIMENEZ<AGUILAR<<ALEJANDRO<<<<"
+  ],
+  "codigo": {
+   "formato": "QRCode",
+   "texto": "INE|979587671|6830279633850|JIAA900331HMCMGL97|2028"
+  }
+ },
+ {
+  "archivo": "neg_licencia_000.jpg",
+  "severidad": "easy",
+  "es_ine": false,
+  "tipo": "licencia"
+ },
+ {
+  "archivo": "neg_tarjeta_000.jpg",
+  "severidad": "easy",
+  "es_ine": false,
+  "tipo": "tarjeta"
+ },
+ {
+  "archivo": "neg_documento_000.jpg",
+  "severidad": "easy",
+  "es_ine": false,
+  "tipo": "documento"
+ },
+ {
+  "archivo": "neg_foto_000.jpg",
+  "severidad": "easy",
+  "es_ine": false,
+  "tipo": "foto"
+ },
+ {
+  "archivo": "neg_licencia_001.jpg",
+  "severidad": "medium",
+  "es_ine": false,
+  "tipo": "licencia"
+ },
+ {
+  "archivo": "neg_tarjeta_001.jpg",
+  "severidad": "medium",
+  "es_ine": false,
+  "tipo": "tarjeta"
+ },
+ {
+  "archivo": "neg_documento_001.jpg",
+  "severidad": "easy",
+  "es_ine": false,
+  "tipo": "documento"
+ },
+ {
+  "archivo": "neg_foto_001.jpg",
+  "severidad": "easy",
+  "es_ine": false,
+  "tipo": "foto"
+ },
+ {
+  "archivo": "neg_licencia_002.jpg",
+  "severidad": "hard",
+  "es_ine": false,
+  "tipo": "licencia"
+ },
+ {
+  "archivo": "neg_tarjeta_002.jpg",
+  "severidad": "hard",
+  "es_ine": false,
+  "tipo": "tarjeta"
+ },
+ {
+  "archivo": "neg_documento_002.jpg",
+  "severidad": "easy",
+  "es_ine": false,
+  "tipo": "documento"
+ },
+ {
+  "archivo": "neg_foto_002.jpg",
+  "severidad": "easy",
+  "es_ine": false,
+  "tipo": "foto"
+ },
+ {
+  "archivo": "neg_licencia_003.jpg",
+  "severidad": "easy",
+  "es_ine": false,
+  "tipo": "licencia"
+ },
+ {
+  "archivo": "neg_tarjeta_003.jpg",
+  "severidad": "easy",
+  "es_ine": false,
+  "tipo": "tarjeta"
+ },
+ {
+  "archivo": "neg_documento_003.jpg",
+  "severidad": "easy",
+  "es_ine": false,
+  "tipo": "documento"
+ },
+ {
+  "archivo": "neg_foto_003.jpg",
+  "severidad": "easy",
+  "es_ine": false,
+  "tipo": "foto"
+ },
+ {
+  "archivo": "neg_licencia_004.jpg",
+  "severidad": "medium",
+  "es_ine": false,
+  "tipo": "licencia"
+ },
+ {
+  "archivo": "neg_tarjeta_004.jpg",
+  "severidad": "medium",
+  "es_ine": false,
+  "tipo": "tarjeta"
+ },
+ {
+  "archivo": "neg_documento_004.jpg",
+  "severidad": "easy",
+  "es_ine": false,
+  "tipo": "documento"
+ },
+ {
+  "archivo": "neg_foto_004.jpg",
+  "severidad": "easy",
+  "es_ine": false,
+  "tipo": "foto"
+ },
+ {
+  "archivo": "neg_licencia_005.jpg",
+  "severidad": "hard",
+  "es_ine": false,
+  "tipo": "licencia"
+ },
+ {
+  "archivo": "neg_tarjeta_005.jpg",
+  "severidad": "hard",
+  "es_ine": false,
+  "tipo": "tarjeta"
+ },
+ {
+  "archivo": "neg_documento_005.jpg",
+  "severidad": "easy",
+  "es_ine": false,
+  "tipo": "documento"
+ },
+ {
+  "archivo": "neg_foto_005.jpg",
+  "severidad": "easy",
+  "es_ine": false,
+  "tipo": "foto"
+ }
+]

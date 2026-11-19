@@ -1,0 +1,57 @@
+{
+ "imagenes": 48,
+ "clasificacion_es_ine_acierto": 1.0,
+ "lado_correcto_en_ine": 1.0,
+ "decision_OK_por_severidad": {
+  "easy": "8/8",
+  "medium": "8/8",
+  "hard": "8/8"
+ },
+ "campos_anverso_exactos": {
+  "curp": "12/12",
+  "clave_elector": "12/12",
+  "apellido_paterno": "12/12",
+  "apellido_materno": "12/12",
+  "nombres": "12/12",
+  "calle": "12/12",
+  "numero_exterior": "12/12",
+  "colonia": "10/12",
+  "codigo_postal": "12/12",
+  "municipio": "12/12",
+  "estado": "12/12",
+  "estado_clave": "12/12",
+  "municipio_clave": "12/12",
+  "seccion": "12/12",
+  "localidad": "12/12",
+  "emision": "12/12",
+  "vigencia": "12/12",
+  "anio_registro": "12/12"
+ },
+ "campos_anverso_ignorando_espacios": {
+  "colonia": "12/12"
+ },
+ "mrz_lineas_exactas": "33/36",
+ "codigo_barras_exacto": "12/12",
+ "decisiones": {
+  "INE->OK": 24,
+  "NEG->DESCARTADO": 24
+ },
+ "tiempo_medio_s": 4.48,
+ "fallos_ejemplo": [
+  [
+   "ine_reverso_010_medium.jpg",
+   "mrz_linea1",
+   "esperado IDMEX4263140411<<2942171812112 / leído ∅"
+  ],
+  [
+   "ine_reverso_010_medium.jpg",
+   "mrz_linea2",
+   "esperado 6503075H3212312MEX<<<<<<<<<<<5 / leído ∅"
+  ],
+  [
+   "ine_reverso_010_medium.jpg",
+   "mrz_linea3",
+   "esperado MENDOZA<SANCHEZ<<EDUARDO<<<<<< / leído ∅"
+  ]
+ ]
+}

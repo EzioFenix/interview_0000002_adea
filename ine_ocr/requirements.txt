@@ -1,0 +1,9 @@
+numpy
+pandas
+pillow
+opencv-python-headless
+onnxruntime
+rapidocr
+zxing-cpp
+rapidfuzz
+streamlit>=1.50
